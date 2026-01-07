@@ -1,5 +1,4 @@
-# AIDOS_ENGAGEMENT_DASHBOARD
-An interactive Power BI dashboard analyzing engagement metrics and trends. Providing insight for Stakeholders to make informed decisions
+
 # AIDOS Engagement Analytics Dashboard
 
 This project showcases an interactive Power BI dashboard designed to analyze engagement data and uncover trends that support insight-driven decision-making.
@@ -37,8 +36,7 @@ This project demonstrates end-to-end Power BI development, from data transformat
 ---
 
 ## How to View the Dashboard
-- Download the `.pbix` file and open it using **Power BI Desktop**  
-- (Optional) A live interactive version may be available via Power BI Service if a link is provided  
+- Download the `.pbix` file and open it using **Power BI Desktop**    
 
 ---
 
@@ -48,5 +46,5 @@ This project is intended for portfolio demonstration purposes. The data used is 
 ---
 
 ## Author
-**Abdulbasit**  
+**Abu Ammar**  
 Data Analyst | Business Intelligence
