@@ -36,6 +36,10 @@ This project demonstrates end-to-end Power BI development, from data transformat
 ---
 
 ## How to View the Dashboard
+
+See the full dashboard here - [App Power Bi Link](https://app.powerbi.com/links/Pui-k1YngV?ctid=da850715-bf86-4983-ae11-1756ac3d9894&pbi_source=linkShare)
+
+![AIDOS DASHBOARD](Aidos_Dashboard.png)
 - Download the `.pbix` file and open it using **Power BI Desktop**    
 
 ---
